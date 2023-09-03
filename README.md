@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am an experienced Software Engineer with a demonstrated history of 8+ years of working in the information services industry.
+I have completed my masters in Applied Statistics and Data Science at Jahangirnagar University. I have industry experience as a developer in various languages and frameworks.
+My core programming strengths are in Java and Python. I have extensive experience in web frameworks such as Spring, databases like MySql. Also practicing microservice architechture and related technologies in my projects.
+
 <!--
 **meftaul/meftaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
